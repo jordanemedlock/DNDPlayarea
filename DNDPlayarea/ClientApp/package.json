@@ -14,7 +14,7 @@
     "react-scripts": "^3.4.0",
     "reactstrap": "^8.4.1",
     "rimraf": "^2.6.2",
-    "underscore": "1.10.2"
+    "underscore": "1.12.1"
   },
   "devDependencies": {
     "ajv": "^6.9.1",
